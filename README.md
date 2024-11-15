@@ -17,8 +17,8 @@ This repository gathers a collection of useful tools to identify similar domains
 
 - **Automated Search** 🤖: Scripts and automated tools to facilitate the search and monitoring of similar domains.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tools 🛠️ <a name="empresas"></a>
 <details>
   <summary>Web 🌐</summary>
