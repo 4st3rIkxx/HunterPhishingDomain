@@ -16,6 +16,17 @@ Este repositório reúne uma coleção de ferramentas úteis para identificar do
 
 - **Automação de Busca** 🤖: Scripts e ferramentas automatizadas para facilitar a busca e o monitoramento de domínios similares.
 
+<details>
+  <summary>Web Tools 🌐</summary>
+
+  - [dnstwist.it](https://dnstwist.it/)
+  - [dnstwister.report](https://dnstwister.report/)
+  - [SOCRadar Phishing Radar](https://socradar.io/labs/soc-tools/phishing-radar)
+  - [PhishTank](https://phishtank.org/)
+  - [Have I Been Squatted](https://haveibeensquatted.com/lookup)
+
+</details>
+
 ## Licença 📄
 
 Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
