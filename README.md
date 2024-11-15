@@ -16,6 +16,16 @@ Este repositório reúne uma coleção de ferramentas úteis para identificar do
 
 - **Automação de Busca** 🤖: Scripts e ferramentas automatizadas para facilitar a busca e o monitoramento de domínios similares.
 
+## Topics
+
+- phishing
+- domain-squatting
+- lookalike-domains
+- cybersecurity
+- threat-detection
+- security-tools
+- domain-monitoring
+
 ### Tools 🛠️ <a name="empresas"></a>
 <details>
   <summary>Web 🌐</summary>
