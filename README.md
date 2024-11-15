@@ -3,3 +3,6 @@
 </h1>
 
 # Hunter Phishing Domain 🔎🪝 
+
+Este repositório indexa algumas ferramentas uteis na busca de dominios semelhantes, que usam de tecnicas como LookAlike, squatted para ataques de phishing e etc...
+
