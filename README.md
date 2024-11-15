@@ -24,9 +24,17 @@ Este repositório reúne uma coleção de ferramentas úteis para identificar do
   - [dnstwister.report](https://dnstwister.report/)
   - [SOCRadar Phishing Radar](https://socradar.io/labs/soc-tools/phishing-radar)
   - [PhishTank](https://phishtank.org/)
+  - [Criminal Ip](https://www.criminalip.io/domain)
+  - [Search DnsLytics](https://search.dnslytics.com/)
   - [Have I Been Squatted](https://haveibeensquatted.com/lookup)
+  - [OTX AlienVault](https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1&limit=10)
+  - [UrlScan.Io](https://urlscan.io/)
+  - [Big Domain Data](https://www.bigdomaindata.com/)
+  - [DupliChecker](https://www.duplichecker.com/)
+  - [Typosquatting Finder](https://typosquatting-finder.circl.lu/)
   - [CheckPhish](https://checkphish.bolster.ai/)
   - [Open Phish - Phishing Intelligence.](https://openphish.com/)
+  - [SpamHaus](https://www.spamhaus.org/)
 
 </details>
 
