@@ -25,6 +25,8 @@ Este repositório reúne uma coleção de ferramentas úteis para identificar do
   - [SOCRadar Phishing Radar](https://socradar.io/labs/soc-tools/phishing-radar)
   - [PhishTank](https://phishtank.org/)
   - [Have I Been Squatted](https://haveibeensquatted.com/lookup)
+  - [CheckPhish](https://checkphish.bolster.ai/)
+  - [Open Phish - Phishing Intelligence.](https://openphish.com/)
 
 </details>
 
