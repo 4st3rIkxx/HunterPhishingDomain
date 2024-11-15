@@ -16,9 +16,8 @@ Este repositório reúne uma coleção de ferramentas úteis para identificar do
 
 - **Automação de Busca** 🤖: Scripts e ferramentas automatizadas para facilitar a busca e o monitoramento de domínios similares.
 
-<details>
-
 ### Tools 🛠️ <a name="empresas"></a>
+<details>
   <summary>Web 🌐</summary>
 
   - [dnstwist.it](https://dnstwist.it/)
