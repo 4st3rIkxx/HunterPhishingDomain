@@ -38,6 +38,27 @@ Este repositório reúne uma coleção de ferramentas úteis para identificar do
 
 </details>
 
+<details>
+  <summary>Script Tools 🤖⚙️</summary>
+
+  - [DNSrazzle](https://github.com/f8al/DNSrazzle)
+  - [urlcrazy](https://github.com/urbanadventurer/urlcrazy)
+  - [dnstwist](https://github.com/elceef/dnstwist)
+  - [DomainFuzz](https://github.com/monkeym4ster/DomainFuzz)
+  - [d0ppelganger](https://github.com/Itsmmdoha/d0ppelganger)
+  - [related-domains](https://github.com/gwen001/related-domains)
+  - [ail-typo-squatting](https://github.com/typosquatter/ail-typo-squatting)
+  - [opensquat](https://github.com/atenreiro/opensquat)
+  - [urlinsane](https://github.com/ziazon/urlinsane)
+  - [dnstwistlib](https://github.com/fslds/dnstwistlib)
+  - [pypi-squatting](https://github.com/typosquatter/pypi-squatting)
+  - [domain-scanner](https://github.com/DomainAlarm/domain-scanner)
+  - [detect-lookalike-domains](https://github.com/kofogt/detect-lookalike-domains)
+  - [lookalike-domains](https://github.com/duo-labs/lookalike-domains)
+  - [idn_generator](https://github.com/phishai/idn_generator)
+
+</details>
+
 ## Licença 📄
 
 Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
