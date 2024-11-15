@@ -62,8 +62,8 @@ This repository gathers a collection of useful tools to identify similar domains
 
 </details>
 
----
 
-### Licença 📄
+## Licença 📄
 
-Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+This project is licensed under the MIT License - see the [LICENSE] file for more details.
