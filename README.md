@@ -6,7 +6,7 @@
 
 This repository gathers a collection of useful tools to identify similar domains frequently used in phishing attacks. These tools apply various techniques, including LookAlike and Domain Squatting, to detect domains that mimic legitimate ones. The goal is to assist in the prevention and identification of phishing threats by providing a solid foundation for security analysis and cyber investigations.
 
-<h2>
+<details>
 ## Features 🚀
 
 - **LookAlike Domains** 🔎: Tools to detect domains that visually resemble legitimate ones by exploiting small character changes.
@@ -16,7 +16,7 @@ This repository gathers a collection of useful tools to identify similar domains
 - **Phishing Analysis** 🛡️: Methods to analyze and verify suspicious domains that may be used in phishing campaigns.
 
 - **Automated Search** 🤖: Scripts and automated tools to facilitate the search and monitoring of similar domains.
-</h2>
+</details>
 
 ### Tools 🛠️ <a name="empresas"></a>
 <details>
