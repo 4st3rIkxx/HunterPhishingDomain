@@ -4,27 +4,18 @@
 
 # Hunter Phishing Domain 🔍🎣
 
-Este repositório reúne uma coleção de ferramentas úteis para identificar domínios semelhantes, frequentemente utilizados em ataques de phishing. Estas ferramentas aplicam diversas técnicas, incluindo LookAlike e Domain Squatting, para detectar domínios que imitam outros legítimos. O objetivo é auxiliar na prevenção e identificação de ameaças de phishing, fornecendo uma base sólida para análises de segurança e investigações cibernéticas.
+This repository gathers a collection of useful tools to identify similar domains frequently used in phishing attacks. These tools apply various techniques, including LookAlike and Domain Squatting, to detect domains that mimic legitimate ones. The goal is to assist in the prevention and identification of phishing threats by providing a solid foundation for security analysis and cyber investigations.
 
-## Funcionalidades 🚀
+## Features 🚀
 
-- **LookAlike Domains** 🔎: Ferramentas para detectar domínios que se assemelham visualmente a domínios legítimos, explorando pequenas alterações como troca de caracteres.
+- **LookAlike Domains** 🔎: Tools to detect domains that visually resemble legitimate ones by exploiting small character changes.
 
-- **Domain Squatting** 📛: Identificação de domínios registrados com nomes similares aos de empresas ou marcas conhecidas, com intuito de enganar usuários.
+- **Domain Squatting** 📛: Identification of domains registered with names similar to well-known companies or brands, aiming to deceive users.
 
-- **Análise de Phishing** 🛡️: Métodos para analisar e verificar domínios suspeitos de serem usados em campanhas de phishing.
+- **Phishing Analysis** 🛡️: Methods to analyze and verify suspicious domains that may be used in phishing campaigns.
 
-- **Automação de Busca** 🤖: Scripts e ferramentas automatizadas para facilitar a busca e o monitoramento de domínios similares.
+- **Automated Search** 🤖: Scripts and automated tools to facilitate the search and monitoring of similar domains.
 
-## Topics
-
-- phishing
-- domain-squatting
-- lookalike-domains
-- cybersecurity
-- threat-detection
-- security-tools
-- domain-monitoring
 
 ### Tools 🛠️ <a name="empresas"></a>
 <details>
